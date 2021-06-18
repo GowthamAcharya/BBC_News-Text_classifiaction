@@ -1,1 +1,1 @@
-# BBC_News-Text_classifiaction
+# BBC_News-Text_classification
